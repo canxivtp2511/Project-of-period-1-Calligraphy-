@@ -16,11 +16,11 @@ Project title: HAIRCARE
                             Lê Thành Ngọc Bích        Student1268354  
 ============================
 
-eProject documentation at ....
+eProject documentation at https://github.com/canxivtp2511/eProject1
 
 ============================
 
-eProject published at ....
+eProject published at https://canxivtp2511.github.io/eProject1/
 
 ============================
 
