@@ -2,7 +2,7 @@ eProject T1.2011.M0-eProject-Group_2 Batch no.: T1.2011.M0
 
 CENTER NAME: ACE-HCMC-2-FPT
 
-Project title: HAIRCARE
+Project title: Calligraphy
 
 ========> Group 2 <=========
 
