@@ -24,7 +24,7 @@ eProject published at https://canxivtp2511.github.io/eProject1/
 
 ============================
 
-eProject video published at coming soon...
+eProject video published at https://www.youtube.com/watch?v=VEi5quwM6jw
 
 ============================
 
