@@ -16,7 +16,7 @@ Project title: Calligraphy
                             Lê Thành Ngọc Bích        Student1268354  
 ============================
 
-eProject documentation at https://github.com/canxivtp2511/eProject1
+eProject documentation at https://github.com/canxivtp2511/eProject1/tree/main/Review
 
 ============================
 
