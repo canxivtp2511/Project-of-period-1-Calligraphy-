@@ -6,7 +6,7 @@ Project title: Calligraphy
 
 ========> Group 2 <=========
 
-3 collaborators:
+4 collaborators:
 
  Group members	            Name	                    Student ID
 
