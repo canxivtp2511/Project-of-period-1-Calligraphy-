@@ -2,21 +2,23 @@
 /********* General CSS *********/
 /*******************************/
 @font-face{
-    src: url(font/UVNBaiSau.TTF);
     font-family: baisau;
+    src: url(font/UVNBaiSau.TTF);
 
 }
 @font-face{
-    src: url(font/FontARABIC.ttf);
     font-family: arabic;
+    src: url(font/FontARABIC.ttf);
 }
 @font-face{
-    src: url(font/FontHead.TTF);
     font-family: headid;
+    src: url(font/FontHead.TTF);
+    
 }
 @font-face{
-    src: url(font/FontChi.TTF);
     font-family: tqfont;
+    src: url(font/FontChi.TTF);
+    
 }
 *{
     font-family: baisau;
