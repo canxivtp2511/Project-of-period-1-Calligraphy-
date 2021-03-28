@@ -16,7 +16,7 @@
 }
 @font-face{
     src: url(font/FontChi.TTF);
-    font-family: FontTQ;
+    font-family: tqfont;
 }
 *{
     font-family: baisau;
