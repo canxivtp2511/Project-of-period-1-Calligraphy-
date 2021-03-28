@@ -11,13 +11,16 @@
     src: url(font/FontARABIC.ttf);
 }
 @font-face{
+    font-family: india;
+    src: url(font/FontINDIA.TTF); 
+}
+@font-face{
     font-family: headid;
-    src: url(font/FontHead.TTF);
-    
+    src: url(font/FontHead.ttf); 
 }
 @font-face{
     font-family: tqfont;
-    src: url(font/FontChi.TTF);
+    src: url(font/FontChi.ttf);
     
 }
 *{
