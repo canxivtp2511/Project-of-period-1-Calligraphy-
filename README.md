@@ -12,7 +12,7 @@ Project title: Calligraphy
 
                             Vũ Trọng Phong            Studenn1285594
                             Đỗ Trần Long              Student1287966
-                            Bùi Đại Long              Student1281546
+                            Bùi Đại Thắng          Student1281546
                             Lê Thành Ngọc Bích        Student1268354  
 ============================
 
